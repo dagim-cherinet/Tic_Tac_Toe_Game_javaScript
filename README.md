@@ -15,4 +15,4 @@ The Application decides the winner from the two players after tracking every mov
                           
 2. everytime players make a move the app stores inside the inner array according to the correct coordinates [x][y]
 3. and everytime a player make a move the app check the array to decide if that particular player wins or not
-##feel free to use
+## feel free to use
