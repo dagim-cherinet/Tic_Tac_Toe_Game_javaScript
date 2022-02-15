@@ -1,6 +1,6 @@
 let player1 = true;
 
-let dataSet = [[], [], [], [], [], [], [], [], []];
+let dataSet = [[], [], []];
 const handleClick = (element) => {
   if (player1) {
     element.innerText = "X";
