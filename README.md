@@ -10,7 +10,7 @@ The Application decides the winner from the two players after tracking every mov
 ## The algorithm is as follows:
 1. I used 2D array represent every square in the tic tac toe game 
 
-   let dataSet = [[], [], [], [], [], [], [], [], []];
+   let dataSet = [[], [], []];
   
                           
 2. everytime players make a move the app stores inside the inner array according to the correct coordinates [x][y]
